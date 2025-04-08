@@ -11,9 +11,9 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1YftnCUWB4yhkV9oJYynl_8nWrKDiB3Hy/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/sai-kumar-visai/",
-  twitter: "https://twitter.com/RishavChanda",
+  twitter: "https://twitter.com/saikumarvisai",
   insta: "https://www.instagram.com/v_s_kumar__/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  facebook: "https://www.facebook.com/profile.php?id=100007754239338",
 };
 
 export const skills = [
@@ -187,7 +187,7 @@ export const projects = [
   },{
     id: 2,
     title: "Nxt Watch",
-    date: "Feb 2025 - OcFebt 2025",
+    date: "Feb 2025 - Feb 2025",
     description:
       "Developed an OTT platform resembling YouTube and Nextflix using ReactJS for the front-end and Spring Boot for the back-end.",
     image:
@@ -283,9 +283,8 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2024, text: "Shared my projects with the world" },
-  { year: 2025, text: "Started my own platform" },
+  { year: 2015, text: "Started my journey" },
+  { year: 2020, text: "Completion of Graduation" },
+  { year: 2024, text: "Completion of Full Stack Course" },
+  { year: 2025, text: "Be a Developer and Programmer" },
 ];
